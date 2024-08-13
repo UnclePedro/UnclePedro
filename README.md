@@ -1,4 +1,4 @@
 - Hi, I'm Peter 👋
-- Software developer using TypeScript and React 👨‍💻
+- Software developer specialising in TypeScript and React 👨‍💻
 - Passionate rock climber and adventurer 🧗‍♂️
 - Check out my portfolio! [peterforsyth.dev](https://peterforsyth.dev/) 👨‍🎨
