@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Peter.
-- 👨‍💻 Software Developer specializing in TypeScript, React, and backend development with Node.js and Express.js.
+- 👨‍💻 Software Developer specialising in TypeScript, React, and backend development with Node.js and Express.js.
 - 🧗‍♂️ Passionate rock climber and adventurer.
 - 🎨 Portfolio: [peterforsyth.dev](https://peterforsyth.dev/) 
 - 🌱 Currently diving deeper into PostgreSQL, Prisma, and API design.
