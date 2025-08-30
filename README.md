@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Peter.
-- 👨‍💻 Software Developer specialising in TypeScript, React, and backend development with Node.js and Express.js.
+- 👨‍💻 Brisbane based Software Dev. Currently learning Ruby on Rails.
 - 🧗‍♂️ Passionate rock climber and adventurer.
 - 🎨 Portfolio: [peterforsyth.dev](https://peterforsyth.dev/) 
-- 🌱 Currently diving deeper into PostgreSQL, Prisma, and API design.
